@@ -3,4 +3,8 @@
 
 ## What I am listening to right now...
 
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=anv4l7ffkfeil9ds8fg437pp2&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+
+## What I am listening to right now...
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=anv4l7ffkfeil9ds8fg437pp2&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
