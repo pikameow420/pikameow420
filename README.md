@@ -1,1 +1,2 @@
 ## Hey there my name is Advit.
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pikameow420&theme=dark&border_radius=20&date_format=M%20j%5B%2C%20Y%5D&background=030925)](https://git.io/streak-stats)
